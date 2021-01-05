@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71948" started-at="2021-01-05T09:52:34 IST" finished-at="2021-01-05T09:53:46 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71948" started-at="2021-01-05T09:52:34 IST" finished-at="2021-01-05T09:53:46 IST">
+      <class name="com.ibm.Assignment.Magento_Contact_Test">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ibm.Assignment.Magento_Contact_Test@694e1548]" name="beforeMethod" is-config="true" duration-ms="16617" started-at="2021-01-05T09:52:34 IST" finished-at="2021-01-05T09:52:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="function()[pri:0, instance:com.ibm.Assignment.Magento_Contact_Test@694e1548]" name="function" duration-ms="53433" started-at="2021-01-05T09:52:50 IST" finished-at="2021-01-05T09:53:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.ibm.Assignment.Magento_Contact_Test@694e1548]" name="afterMethod" is-config="true" duration-ms="1844" started-at="2021-01-05T09:53:44 IST" finished-at="2021-01-05T09:53:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.ibm.Assignment.Magento_Contact_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
